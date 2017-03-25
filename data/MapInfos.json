@@ -9,7 +9,7 @@ null,
 {"id":7,"expanded":true,"name":"Alt Floor 3","order":7,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":8,"expanded":true,"name":"Alt Alt Floor 3","order":8,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":9,"expanded":true,"name":"Top","order":9,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":10,"expanded":true,"name":"Alt Top","order":10,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":10,"expanded":true,"name":"Alt Top","order":10,"parentId":0,"scrollX":832,"scrollY":624},
 {"id":11,"expanded":true,"name":"Alt Alt Top","order":11,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":12,"expanded":false,"name":"Door Open","order":3,"parentId":2,"scrollX":1228.5,"scrollY":716.25}
 ]
