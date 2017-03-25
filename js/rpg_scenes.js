@@ -774,17 +774,16 @@ Scene_Menu.prototype.initialize = function() {
 Scene_Menu.prototype.create = function() {
     Scene_MenuBase.prototype.create.call(this);
     this.createCommandWindow();
-    this.createGoldWindow();
-    this.createStatusWindow();
 };
 
 Scene_Menu.prototype.start = function() {
     Scene_MenuBase.prototype.start.call(this);
-    this._statusWindow.refresh();
 };
 
 Scene_Menu.prototype.createCommandWindow = function() {
     this._commandWindow = new Window_MenuCommand(0, 0);
+    this._commandWindow.x = (Graphics.boxWidth - this._commandWindow.width) / 2;
+    this._commandWindow.y = (Graphics.boxHeight - this._commandWindow.height) / 2;
     this._commandWindow.setHandler('item',      this.commandItem.bind(this));
     this._commandWindow.setHandler('skill',     this.commandPersonal.bind(this));
     this._commandWindow.setHandler('equip',     this.commandPersonal.bind(this));
