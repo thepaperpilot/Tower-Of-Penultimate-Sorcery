@@ -229,7 +229,7 @@ MBS.MapZoom = {};
    * @param {Number} y The vertical zoom ratio
    */
   Game_Map.prototype.setZoom = function(x, y, duration) {
-  	duration = duration || 60;
+  	duration = duration || 0;
   	duration = Math.round(duration <= 0 ? 1 : duration) * 1.0;
   	this._destZoom.x = this._destZoom.y = x;
   	if (y) {
