@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":true,"name":"Top","order":9,"parentId":0,"scrollX":1092,"scrollY":636.6666666666666},
 {"id":10,"expanded":true,"name":"Alt Top","order":10,"parentId":0,"scrollX":1092,"scrollY":636.6666666666666},
 {"id":11,"expanded":true,"name":"Alt Alt Top","order":11,"parentId":0,"scrollX":1092,"scrollY":636.6666666666666},
-{"id":12,"expanded":false,"name":"Door Open","order":3,"parentId":2,"scrollX":1092,"scrollY":636.6666666666666}
+{"id":12,"expanded":false,"name":"Door Open","order":3,"parentId":2,"scrollX":811,"scrollY":610}
 ]
