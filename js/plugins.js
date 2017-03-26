@@ -7,5 +7,5 @@ var $plugins =
 {"name":"TYR_CameraControl","status":true,"description":"v1.00  Allows greater control of the camera.","parameters":{}},
 {"name":"MBS_MapZoom","status":true,"description":"Makes it possible to zoom in and out the game map\n\n<MBS MapZoom>","parameters":{"Reset on map change":"true","Default zoom":"2"}},
 {"name":"GALV_MessageStyles","status":true,"description":"Settings to change how your \"Show Text\" messages look as well as code to make them floating.","parameters":{"Input Indicator":"2,0,-12","Indicator Zoom":"100","Message Padding":"0,0,0,0","Message Windowskin":"Window2","Arrow Graphic":"WindowArrow","Windowskin Back Opacity":"255","Y Offset":"60","Font":"","Font Filename":"","Font Outline":"false","Font Size":"28"}},
-{"name":"YEP_IconBalloons","status":true,"description":"v1.00 Allows you to use icons for your on-map balloons\nover your characters and events!","parameters":{"Empty Filename":"EmptyBalloon"}}
+{"name":"YEP_IconBalloons","status":false,"description":"v1.00 Allows you to use icons for your on-map balloons\nover your characters and events!","parameters":{"Empty Filename":"EmptyBalloon"}}
 ];
