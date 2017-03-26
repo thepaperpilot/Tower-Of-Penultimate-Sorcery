@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":223,"indent":0,"parameters":[[170,-34,-34,0],10,true]},{"code":249,"indent":0,"parameters":[{"name":"Shock2","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":0,"parameters":[]},{"code":211,"indent":0,"parameters":[0]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["\\pop[a1]No! I can't fail here!"]},{"code":201,"indent":0,"parameters":[0,3,20,11,6,2]},{"code":223,"indent":0,"parameters":[[0,0,0,0],1,true]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[10]},{"code":0,"indent":0,"parameters":[]}],"name":"Death","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":224,"indent":0,"parameters":[[255,0,0,170],60,false]},{"code":249,"indent":0,"parameters":[{"name":"Shock2","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":0,"parameters":[]},{"code":211,"indent":0,"parameters":[0]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["\\pop[a1]No! I can't fail here!"]},{"code":201,"indent":0,"parameters":[0,3,20,11,6,2]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[10]},{"code":0,"indent":0,"parameters":[]}],"name":"Death","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
